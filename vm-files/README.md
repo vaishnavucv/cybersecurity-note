@@ -1,6 +1,6 @@
 
 # VMware Workstation 17 Pro 
-- https://www.vmware.com/in/products/workstation-pro/workstation-pro-evaluation.html [not working]
+- workstation-pro-for windows10/11(https://drive.google.com/file/d/1OD2xdLzZ3kbNDV_EQteowo7IigEDP1-c/view?usp=sharing)
 
 # Virtual Box
 - https://download.virtualbox.org/virtualbox/7.0.18/VirtualBox-7.0.18-162988-Win.exe
