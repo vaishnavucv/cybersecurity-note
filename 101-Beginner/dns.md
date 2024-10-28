@@ -17,7 +17,8 @@ Let’s break it down!
 > **Analogy**: Imagine DNS as your contacts list. Instead of remembering phone numbers, you can simply search by name – DNS lets you do this for websites!
 
 
-![image](https://github.com/user-attachments/assets/35a89020-1925-4d28-be65-e12db116ac85)
+![image](https://github.com/user-attachments/assets/ba7b418c-777d-41d3-82ba-ad9793ca2e08)
+
 
 
 
