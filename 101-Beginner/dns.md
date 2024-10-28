@@ -30,7 +30,8 @@ DNS simplifies our online experience by linking names to IP addresses, making it
 - **Without DNS**: We would need to memorize long and complex IP addresses.
 
 
-![image](https://github.com/user-attachments/assets/5f614b67-2b0e-4137-b5ce-9105ae1b6850)
+![image](https://github.com/user-attachments/assets/9fd4ad15-adad-430e-b69c-6ba3d389fb04)
+
 
 ---
 
@@ -45,8 +46,9 @@ Domain names follow a structured hierarchy, making them easier to organize:
 - **Second-Level Domains**: Names created by organizations or individuals, like `example` in `example.com`.
 - **Subdomains**: Optional sections that add organizational layers, like `blog.example.com`.
 
+![image](https://github.com/user-attachments/assets/9133a2a3-6300-4a38-a294-82c9f988f00b)
 
-![image](https://github.com/user-attachments/assets/25d698e8-ee08-4d0f-b997-37645300ef19)
+
 
 ### 📌 DNS Records
 DNS records are the building blocks that provide detailed information about each domain, such as:
@@ -58,14 +60,16 @@ DNS records are the building blocks that provide detailed information about each
 - **TXT Record**: Holds text information, commonly used for verification or security purposes.
 
 
-![image](https://github.com/user-attachments/assets/d536ea06-a601-4816-99b6-c17c0dad78f5)
+
+![image](https://github.com/user-attachments/assets/81ebd234-a867-45cd-9db9-2c536e0b7ff6)
 
 
 ### 📌 Nameservers
 Nameservers are servers that store DNS records, which help route traffic to the correct IP address when a user enters a domain name.
 
 
-![image](https://github.com/user-attachments/assets/11187f55-6a60-4f0e-97ae-7570e0319908)
+![image](https://github.com/user-attachments/assets/46ce5839-7f31-4e78-8b61-f819b2c6dd88)
+
 
 ---
 
@@ -82,7 +86,8 @@ Nameservers are servers that store DNS records, which help route traffic to the 
 > **Example**: User types `example.com` → DNS Resolver → Root Server → `.com` TLD Server → Authoritative Nameserver → Returns IP Address to browser.
 
 
-![image](https://github.com/user-attachments/assets/d52002a9-a908-4f1e-8b8a-dfae3be45181)
+
+![image](https://github.com/user-attachments/assets/2e038eb4-ed51-47e6-a1ab-8b922fc26700)
 
 ---
 
@@ -91,7 +96,8 @@ Nameservers are servers that store DNS records, which help route traffic to the 
 1. **Root DNS Servers**: The highest level in DNS, directing requests to the correct TLD.
 2. **TLD DNS Servers**: Manage requests for each TLD (e.g., `.com`, `.org`).
 3. **Authoritative DNS Servers**: The final source that provides the specific IP for a domain name.
-![image](https://github.com/user-attachments/assets/47bfc9d9-62a2-45f7-a9e0-4e4c42c1cfac)
+
+![image](https://github.com/user-attachments/assets/1f10ef19-aa71-4b90-b814-e8f686a3a2c9)
 
 ---
 
@@ -102,13 +108,14 @@ DNS is fundamental for internet operations but is also a target for cyber-attack
 - **DNSSEC (DNS Security Extensions)**: Adds an extra layer of security to validate DNS responses and prevent data manipulation.
 
 
-![image](https://github.com/user-attachments/assets/f01de168-0ddd-47ed-a86a-7a7104225218)
+![image](https://github.com/user-attachments/assets/83b8c70d-ed3d-4c43-8ab2-90d667b3ae57)
+
 
 
 - **Encrypted DNS**: Use DNS-over-HTTPS (DoH) or DNS-over-TLS (DoT) to encrypt DNS queries and enhance user privacy.
 
+![image](https://github.com/user-attachments/assets/59631982-103c-4b23-a92a-519a0e9a7387)
 
-![image](https://github.com/user-attachments/assets/43870158-960b-4ebc-b76e-2d1e3f59e68c)
 
 ---
 ## 🛠 Common DNS Tools for Advanced Information Gathering
