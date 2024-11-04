@@ -1,4 +1,7 @@
 ### sample terminal output.
+
+> All commands for testing and reporting.
+
 ```bash
 grey@mi-14:~$ sqlmap  -u http://testphp.vulnweb.com/listproducts.php?cat=2 -D acuart --tables
         ___
