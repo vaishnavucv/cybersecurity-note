@@ -6,9 +6,9 @@
 - https://download.virtualbox.org/virtualbox/7.0.18/VirtualBox-7.0.18-162988-Win.exe
 
 # Kali Linux
-- [kali Linux for => VMware](https://cdimage.kali.org/kali-2024.3/kali-linux-2024.3-vmware-amd64.7z)
+- [kali Linux for => VMware](https://cdimage.kali.org/kali-2025.1c/kali-linux-2025.1c-vmware-amd64.7z)
 - Download Kali linux VM file according to VM Application installed in win/Mac/Ubuntu.
-- [Kali Linux for => VirtualBox](https://cdimage.kali.org/kali-2024.4/kali-linux-2024.4-virtualbox-amd64.7z)
+- [Kali Linux for => VirtualBox](https://cdimage.kali.org/kali-2025.1c/kali-linux-2025.1c-virtualbox-amd64.7z)
 
 # VMware key
 - https://raw.githubusercontent.com/vaishnavucv/cybersecurity-note/main/vm-files/vm-key.txt
