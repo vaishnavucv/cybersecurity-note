@@ -4,7 +4,14 @@ This guide is designed to help beginners set up a complete virtual penetration t
 
 ---
 
+<<<<<<< HEAD
 ## Step 1: Install Virtualization Software
+=======
+# Kali Linux
+- [kali Linux for => VMware](https://cdimage.kali.org/kali-2025.1c/kali-linux-2025.1c-vmware-amd64.7z)
+- Download Kali linux VM file according to VM Application installed in win/Mac/Ubuntu.
+- [Kali Linux for => VirtualBox](https://cdimage.kali.org/kali-2025.1c/kali-linux-2025.1c-virtualbox-amd64.7z)
+>>>>>>> 34107d57233c51fec7408d1dc36245bc2fb8e08c
 
 ### VMware Workstation 17 Pro
 
