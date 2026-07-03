@@ -92,7 +92,7 @@ Use a phased methodology:
 General syntax:
 
 ```bash
-nmap [scan type] [options] [target]
+nmap [scan type] [options] [target.]
 ```
 
 Example:
