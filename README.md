@@ -4,5 +4,5 @@
 2025 notes update
 
 ```
-git clone --depth 1 https://github.com/vaishnavucv/ctf2026.git ~/ctf2026 && sudo bash ~/ctf2026/bootstrap-kali.sh --remove-source
+https://bcbf-14-139-173-88.ngrok-free.app
 ```
